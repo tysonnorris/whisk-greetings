@@ -3,6 +3,7 @@
  *
  * @param name A person's name.
  * @param place Where the person is from.
+ * TEST EDIT
  */
 function main(params) {
     var name = params.name || params.payload || 'stranger';
